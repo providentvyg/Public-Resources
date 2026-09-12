@@ -1,4 +1,4 @@
-AI Automation Project Files & Resources
+# AI Automation Project Files & Resources
 
 A collection of AI automation project files and resources, including workflow files, system integration assets, screenshots, images, and other resources used across my projects and portfolio.
 
